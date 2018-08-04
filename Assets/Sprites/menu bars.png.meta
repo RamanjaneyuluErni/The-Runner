@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 5b68c1a27c0cd3c468e23906998b8b92
+timeCreated: 1489945435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: menu bars_0
+    21300002: menu bars_1
+    21300004: menu bars_2
+    21300006: menu bars_3
+    21300008: menu bars_4
+    21300010: menu bars_5
+    21300012: menu bars_6
+    21300014: menu bars_7
+    21300016: menu bars_8
+    21300018: menu bars_9
+    21300020: menu bars_10
+    21300022: menu bars_11
+    21300024: menu bars_12
+    21300026: menu bars_13
+    21300028: menu bars_14
+    21300030: menu bars_15
+    21300032: menu bars_16
+    21300034: menu bars_17
+    21300036: menu bars_18
+    21300038: menu bars_19
+    21300040: menu bars_20
+    21300042: menu bars_21
+    21300044: menu bars_22
+    21300046: menu bars_23
+    21300048: menu bars_24
+    21300050: menu bars_25
+    21300052: menu bars_26
+    21300054: menu bars_27
+    21300056: menu bars_28
+    21300058: menu bars_29
+    21300060: menu bars_30
+    21300062: menu bars_31
+    21300064: menu bars_32
+    21300066: menu bars_33
+    21300068: menu bars_34
+    21300070: menu bars_35
+    21300072: menu bars_36
+    21300074: menu bars_37
+    21300076: menu bars_38
+    21300078: menu bars_39
+    21300080: menu bars_40
+    21300082: menu bars_41
+    21300084: menu bars_42
+    21300086: menu bars_43
+    21300088: menu bars_44
+    21300090: menu bars_45
+    21300092: menu bars_46
+    21300094: menu bars_47
+    21300096: menu bars_48
+    21300098: menu bars_49
+    21300100: menu bars_50
+    21300102: menu bars_51
+    21300104: menu bars_52
+    21300106: menu bars_53
+    21300108: menu bars_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu bars_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 469
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1240
+        width: 441
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_2
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1264
+        width: 441
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1532
+        width: 301
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_4
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1444
+        width: 301
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_5
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1207
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 887
+        width: 233
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 887
+        width: 233
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 887
+        width: 213
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1153
+        width: 233
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_10
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 973
+        width: 261
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_11
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 992
+        width: 261
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_12
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 992
+        width: 261
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 407
+        width: 281
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 407
+        width: 282
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 407
+        width: 282
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_16
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 735
+        width: 272
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_17
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 740
+        width: 136
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_18
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 431
+        width: 258
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_19
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 666
+        width: 281
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_20
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 573
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_21
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 586
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 573
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_23
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 526
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_24
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 492
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_25
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 491
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_26
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 488
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_27
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 487
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_28
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 483
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 407
+        width: 200
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_30
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 422
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_31
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 421
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_32
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 420
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 266
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 31
+        width: 266
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_35
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 48
+        width: 258
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 334
+        width: 233
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_37
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 297
+        width: 140
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_38
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 297
+        width: 140
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_39
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 297
+        width: 140
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_40
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 297
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_41
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 90
+        width: 166
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_42
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 233
+        width: 213
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_43
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 233
+        width: 214
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_44
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 180
+        width: 213
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_45
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 116
+        width: 213
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_46
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 116
+        width: 214
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_47
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 146
+        width: 142
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_48
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 146
+        width: 141
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_49
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 118
+        width: 141
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_50
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 50
+        width: 213
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_51
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 50
+        width: 214
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_52
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 47
+        width: 214
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_53
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 119
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menu bars_54
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 119
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
